@@ -25,7 +25,7 @@ Link do <a href="https://www.cursoemvideo.com/">Site</a>
 
 009 - Tabuada
 
-010 - Converspr de Moedas
+010 - Conversor de Moedas
 
 011 - Pintando Parede
 
